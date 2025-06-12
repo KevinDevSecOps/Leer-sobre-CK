@@ -19,7 +19,7 @@ Soy un profesional apasionado por la tecnología, la seguridad informática y el
 
 ## 📫 Contacto
 
-- Email: tu.email@ejemplo.com
+- Email: kevinpamiestrabajo@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/KevinDevSecOPs/)
 - [GitHub](https://github.com/KevinDevSecOps)
 
