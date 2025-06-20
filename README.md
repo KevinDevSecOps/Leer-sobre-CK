@@ -119,3 +119,62 @@ me = RedTeamEngineer()
 └── tools/
     ├── c2_profiles/          # Firmas de Cobalt Strike/Metasploit
     └── weaponization/        # Plantillas para artefactos maliciosos
+
+# Usa CK como diccionario de ataques
+from ck_tactics import defense_evasion
+
+for technique in defense_evasion.get_techniques():
+    if technique.suitable_for(target_os):
+        execute(technique)
+-- Busca patrones en tus logs
+SELECT * FROM security_logs 
+WHERE event_description IN (
+    SELECT signature FROM ck_detection_rules 
+    WHERE risk_level >= 7
+)
+; Ejemplo para Flipper Zero
+mov [rfid_emulator], CK.RFID.cloning_procedure
+call execute_with_timing_attack
+; Ejemplo para Flipper Zero
+mov [rfid_emulator], CK.RFID.cloning_procedure
+call execute_with_timing_attack
+---
+
+## 🌟 Contribuciones Destacadas
+| Archivo | Impacto | Autor |
+|---------|---------|-------|
+| [EDR_Bypass.md](/) | 50+ estrellas | @KevinDevSecOps |
+| [Lateral_Movement_CheatSheet.md](/) | Citado en 3 papers | @KevinDevSecOps |
+
+---
+
+## 🚀 ¿Por qué CK es diferente?
+- **Enfoque Red Team puro** (no solo pentesting genérico)
+- **Técnicas validadas en entornos reales** (OSCP/CEH compliant)
+- **Integración con herramientas de mi arsenal**:
+  ```yaml
+  flipper_zero:
+    modules:
+      - ck_rfid_attack
+      - ck_badusb_payloads
+  hackrf:
+    frequency_profiles: ck_radio_ttps
+  ```
+
+---
+
+## 📈 Estadísticas CK
+![CK Usage](https://img.shields.io/badge/Descargas_Mensuales-1.2k-blue) 
+![Contributors](https://img.shields.io/badge/Contribuidores-8-brightgreen)
+
+---
+
+<div align="center">
+  <a href="https://github.com/KevinDevSecOps/Leer-sobre-CK/generate">
+    <img src="https://img.shields.io/badge/USAR_ESTE_TEMPLATE-FF6600?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+> *"¿Encontraste útil este repo? ¡Déjale una estrella ⭐ o atácame en tu próximo C2!"*  
+> — Con cariño para la comunidad, KevinDevSecOps 🏴‍☠️
+```
