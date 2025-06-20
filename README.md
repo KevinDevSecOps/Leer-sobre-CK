@@ -88,3 +88,34 @@ me = RedTeamEngineer()
   </a>
 </div>
 ```
+# 📖 Leer sobre CK - Common Knowledge for Red Teamers
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logo=windowsterminal&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/OSCP-FF6600?style=for-the-badge&logo=bookstack&logoColor=white">
+</div>
+
+<br>
+
+> *"El conocimiento que no se comparte es seguridad que no se mejora"*  
+> — KevinDevSecOps, Red Team Specialist
+
+---
+
+## 🔍 ¿Qué es Common Knowledge (CK)?
+**Base de conocimiento esencial para operaciones de Red Team**, estructurada en:
+- Técnicas de persistencia avanzada (`#LivingOffTheLand`)
+- Bypass a EDR/XDR documentados (`#Tradecraft`)
+- Tácticas de movimiento lateral (`#AD_Exploitation`)
+- Firmas de herramientas C2 (`#ArsenalDetection`)
+
+```bash
+# Ejemplo de estructura CK
+/ck/
+├── tactics/
+│   ├── credential_access.md  # TTPs para extracción de creds
+│   └── defense_evasion.md    # 30+ técnicas para evadir AV
+└── tools/
+    ├── c2_profiles/          # Firmas de Cobalt Strike/Metasploit
+    └── weaponization/        # Plantillas para artefactos maliciosos
