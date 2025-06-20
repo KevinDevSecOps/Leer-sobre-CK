@@ -1,5 +1,4 @@
-# **✨ Kevin "CoolKiids" - El Hacker con Cara de Bueno (Pero No lo Soy)**  
-*"28 años | 8+ años hackeando cosas legalmente | Parezco el becario pero soy el que firma tu evaluación"*
+firma tu evaluación"*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinDevSecOps/Leer-sobre-CK/main/ck.png" width="250" alt="♦️ CoolKiids">
