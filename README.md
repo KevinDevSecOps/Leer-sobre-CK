@@ -87,7 +87,9 @@ me = RedTeamEngineer()
     <img src="https://img.shields.io/badge/VER_MIS_PROYECTOS-22F729?style=for-the-badge&logo=github&logoColor=black">
   </a>
 </div>
+
 ```
+
 # 📖 Leer sobre CK - Common Knowledge for Red Teamers
 
 <div align="center">
@@ -168,7 +170,6 @@ call execute_with_timing_attack
 ![Contributors](https://img.shields.io/badge/Contribuidores-8-brightgreen)
 
 ---
-
 <div align="center">
   <a href="https://github.com/KevinDevSecOps/Leer-sobre-CK/generate">
     <img src="https://img.shields.io/badge/USAR_ESTE_TEMPLATE-FF6600?style=for-the-badge&logo=github&logoColor=white">
@@ -178,3 +179,4 @@ call execute_with_timing_attack
 > *"¿Encontraste útil este repo? ¡Déjale una estrella ⭐ o atácame en tu próximo C2!"*  
 > — Con cariño para la comunidad, KevinDevSecOps 🏴‍☠️
 ```
+
