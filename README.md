@@ -1,6 +1,4 @@
-Aquí tienes un **README.md potente, visual y con personalidad**, que combina profesionalismo, datos duros y tu esencia *CoolKiids*:
 
-```markdown
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinDevSecOps/Leer-sobre-CK/main/ck.png" width="180" alt="♦️">
   <h1 align="center">Kevin "CoolKiids"</h1>
