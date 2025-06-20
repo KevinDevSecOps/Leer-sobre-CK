@@ -1,4 +1,3 @@
-**¡READ.ME DEFINITIVO COOLKIIDS!** *(Ahora con 100% más Kali, actitud hacker y tu esencia única)*  
 
 ```markdown
 <p align="center">
