@@ -10,9 +10,31 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KevinDevSecOps/Leer-sobre-CK/main/ck.png" width="180" alt="♦️">
+  <h1 align="center">Kevin "CoolKiids"</h1>
+  <h3 align="center">"Olvido mi contraseña... pero la tuya la crackeo en 2 segundos"</h3>
+  
+  ![Hacking](https://img.shields.io/badge/PENTESTER_ÉTICO-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+  ![IoT](https://img.shields.io/badge/IoT_BREAKER-00FF00?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+</p>
+
+---
+
+### 🔥 **Mi Especialidad**
+```python
+def hackear_sistema():
+    while True:
+        if sistema == "seguro":
+            print("Desafío aceptado 😈")
+            break
+        else:
+            print("Demasiado fácil...")
+
+hackear_sistema()  # Output: Desafío aceptado 😈
 
 ### 🔥 **Mi Estadística Favorita**
-```python
+```python 
 def porcentaje_éxito():
     clientes = 100
     sistemas_hackeados = 98  # Los otros 2 eran "irrompibles"*
