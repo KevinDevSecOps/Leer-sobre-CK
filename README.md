@@ -1,5 +1,4 @@
 
-```markdown
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinDevSecOps/Leer-sobre-CK/main/ck.png" width="200">
   <h1 align="center">Kevin "CoolKiids"</h1>
