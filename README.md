@@ -1,6 +1,6 @@
 
 # 🔥 KevinDevSecOps | Red Team Operations & IoT Weaponization Specialist
-## 👵💻 **Explicación para mi abuela**
+## 👵💻 **Explicación para tu abuela**
 
 _"Mira, abuela: soy como un cerrajero digital.  
 🔓 Pruebo cerraduras (sistemas) para ver si se pueden abrir  
