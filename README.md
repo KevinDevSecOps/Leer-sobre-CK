@@ -1,5 +1,14 @@
 
 # 🔥 KevinDevSecOps | Red Team Operations & IoT Weaponization Specialist
+## 👵💻 **Explicación para mi abuela**
+
+_"Mira, abuela: soy como un cerrajero digital.  
+🔓 Pruebo cerraduras (sistemas) para ver si se pueden abrir  
+📱 Examino tus aparatos "listos" (que a veces no son tan listos)  
+🛡️ Enseño a las empresas cómo proteger sus cosas  
+💼 Y todo legal, ¡que conste en acta!"_  
+
+*(Sí, aún te ayudo con el WiFi cuando viene)*
 
 # 🏴‍☠️ De Romper Juguetes a Romper Sistemas | 8 Años de Caos Controlado
 
