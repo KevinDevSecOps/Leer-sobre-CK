@@ -7,7 +7,15 @@ _"Mira, abuela: soy como un cerrajero digital.
 📱 Examino tus aparatos "listos" (que a veces no son tan listos)  
 🛡️ Enseño a las empresas cómo proteger sus cosas  
 💼 Y todo legal, ¡que conste en acta!"_  
+## 🚀 **Tech Stack 2024 (Como si lo explicara a mi abuela)**  
+*"Mira abuela, estos son mis 'juguetes' profesionales:"*  
 
+### 📻 **Radio Defined Software (SDR)**
+```bash
+# Lo nuevo que uso en 2024:
+$ hackrf_one_plus --frequency 6GHz --analyze  # ¡Ahora hasta 6GHz!
+$ bladeRF 3.0 --fpga=latest                  # FPGA programable al vuelo
+$ gqrx --visual "Abrir cerraduras con ondas"  # SDR para pentesting físico
 *(Sí, aún te ayudo con el WiFi cuando viene)*
 
 # 🏴‍☠️ De Romper Juguetes a Romper Sistemas | 8 Años de Caos Controlado
