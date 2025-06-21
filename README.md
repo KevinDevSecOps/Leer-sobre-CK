@@ -85,6 +85,51 @@ def execute():
 ```
 
 ---
+📡 Software Defined Radio (SDR)
+
+Este proyecto incluye funcionalidades basadas en Software Defined Radio (SDR), una tecnología que permite analizar, transmitir y recibir señales de radio utilizando software en lugar de hardware dedicado. A través de SDR, este proyecto puede abordar aplicaciones como:
+
+• Captura y análisis de señales RF: Análisis de señales en un rango de frecuencia amplio.
+
+• Emulación y decodificación: Decodificación de señales para comprender su estructura o emular dispositivos.
+
+• Experimentación abierta: Permite a los usuarios explorar y aprender sobre tecnologías inalámbricas.
+
+🚀 Características Destacadas
+
+• Compatibilidad con HackRF y PortaPack H2: Este proyecto está diseñado para integrarse con dispositivos SDR populares como HackRF One y PortaPack H2.
+
+• Protocolos soportados: Análisis de señales en Sub-GHz, ISM, NFC, entre otros.
+
+• Extensibilidad: Puedes crear tus propios scripts y protocolos utilizando el framework proporcionado.
+
+🔧 Requisitos
+
+Para aprovechar las capacidades SDR de este proyecto, necesitarás el siguiente hardware y software:
+
+• Hardware: HackRF One, PortaPack H2, Flipper Zero (opcional), StickPlus2 o similares.
+
+• Software: GNU Radio, GQRX, o cualquier herramienta compatible con SDR.
+
+📖 Cómo Empezar
+
+1. Conecta tu dispositivo SDR al sistema.
+
+2. Configura las frecuencias y protocolos según lo que desees analizar.
+
+3. Sigue los scripts incluidos en el repositorio para realizar tareas comunes como:
+
+• Escaneo de señales.
+
+• Decodificación de protocolos.
+
+• Emulación de dispositivos RF.
+
+⚠️ Legalidad y Uso Ético
+
+El uso de SDR está sujeto a regulaciones locales. Asegúrate de cumplir con las leyes de tu país al analizar o transmitir señales. Este proyecto es para fines educativos y de investigación únicamente.
+
+
 
 ## 📊 Mis Números (Porque los hackers también cuentan)
 ```diff
