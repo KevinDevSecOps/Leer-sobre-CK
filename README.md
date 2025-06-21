@@ -1,5 +1,33 @@
 
 # 🔥 KevinDevSecOps | Red Team Operations & IoT Weaponization Specialist
+### 🕵️ **IoT Hacking Kit 2024**
+```python
+# Dispositivos que duermen en mi mochila:
+flipper_zero = {
+    "firmware": "QF7", 
+    "modules": ["NFC Bruteforce", "BadUSB 2.0", "Sub-GHz Attacks"]
+}
+
+proxmark3_rdv4 = {                           # La bestia de RFID
+    "range": "Larga distancia",
+    "features": ["Clonación en 3 segundos"]
+}
+```
+
+### 🔥 **Datos clave (2024)**
+```diff
++ Kali Linux 2024.2 (con kernel 6.5+ para drivers SDR)
++ Flipper Zero Firmware QF7 (¡nuevos exploits para coches keyless!)
++ HackRF One+ (6GHz y 100ms de switching)
+```
+
+*(Sí abuela, aún te ayudo con el WiFi... pero ahora también sé hackear tu termostato "inteligente")*  
+```markdown
+[![Firmware](https://img.shields.io/badge/Firmware_Actualizado-Junio_2024-brightgreen?style=flat-square)]()
+``` 
+
+---
+
 ## 👵💻 **Explicación para tu abuela**
 
 _"Mira, abuela: soy como un cerrajero digital.  
