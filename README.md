@@ -1,6 +1,120 @@
 
 # 🔥 KevinDevSecOps | Red Team Operations & IoT Weaponization Specialist
 
+# 🏴‍☠️ De Romper Juguetes a Romper Sistemas | 8 Años de Caos Controlado
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack+NERD+Font&size=28&pause=1000&color=22F7B8&width=550&lines=KevinDevSecOps+%7C+Red+Team+Lead;OSCP+%7C+CEH+%7C+EJPT+Certified;IoT+Weaponization+Specialist;Flipper+Zero+%26+HackRF+Pro;La+seguridad+es+aburrida...+hasta+que+llegas+tú" alt="Header animado">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinDevSecOps&theme=onedark&row=1&column=6&no-frame=true" alt="Trofeos GitHub">
+</div>
+
+---
+
+## 🔥 Mi Historia (Versión Red Team)
+```python
+class HackerStory:
+    def __init__(self):
+        self.phase_one = "🔧 2015: Desarmando juguetes electrónicos"
+        self.phase_two = "💻 2016: Kali Linux en una laptop quemando CPU"
+        self.phase_three = "🏆 2020: Certificaciones OSCP/CEH conseguidas"
+        self.current_status = "☠️ 2023: Rompiendo IoT en Fortune 500"
+    
+    def motto(self):
+        return "Nunca dejé de romper cosas... solo que ahora me pagan por ello"
+
+my_story = HackerStory()
+```
+
+---
+
+## 🛠️ Arsenal del Caos
+### 💣 Dispositivos Favoritos
+| Dispositivo | Uso | Nivel de Destrucción |
+|-------------|-----|----------------------|
+| <img src="https://img.shields.io/badge/Flipper_Zero-000000?style=for-the-badge&logo=flipper&logoColor=white"> | Clonar RFID/Pentesting físico | 🔥🔥🔥🔥🔥 |
+| <img src="https://img.shields.io/badge/Hack_RF-000000?style=for-the-badge&logo=gnuradio&logoColor=white"> | Ataques RF/SDR | 🔥🔥🔥🔥 |
+| <img src="https://img.shields.io/badge/Proxmark3-FF0000?style=for-the-badge"> | Clonar tarjetas de acceso | 🔥🔥🔥🔥 |
+
+### 🧠 Conocimiento Táctico (CK)
+```mermaid
+flowchart LR
+    A[Leer-sobre-CK] --> B{Técnicas}
+    B --> C[Evasión EDR]
+    B --> D[Lateral Movement]
+    B --> E[IoT 0-days]
+    B --> F[Physical Hacks]
+    C --> G[50+ métodos]
+    D --> H[AD Exploitation]
+```
+
+---
+
+## 📜 Certificaciones (Para los que les gustan los papeles)
+<div align="center">
+  <img src="https://img.shields.io/badge/OSCP-FF6600?style=for-the-badge&logo=offensive-security&logoColor=white" title="Offensive Security Certified Professional"> 
+  <img src="https://img.shields.io/badge/CEH-FF0000?style=for-the-badge&logo=windows-terminal&logoColor=white" title="Certified Ethical Hacker">
+  <img src="https://img.shields.io/badge/EJPT-00FF00?style=for-the-badge&logo=linux&logoColor=black" title="eLearnSecurity Junior Pentester">
+</div>
+
+---
+
+## 🌟 Proyectos Estrella
+### 1. [IoT-Pentest-Guide](https://github.com/KevinDevSecOps/IoT-Pentest-Guide)
+```bash
+# Lo que la gente dice:
+$ curl -X GET https://api.github.com/repos/KevinDevSecOps/IoT-Pentest-Guide/stargazers 
+"response": "¡Este hombre hace que los tostadores parezcan armas!"
+```
+
+### 2. [Flipper-Zero-Scripts](https://github.com/KevinDevSecOps/Flipper-Zero-Scripts)
+```nasm
+; Ejemplo de código:
+mov [payload], "Kevin's Magic"
+int 0x80  ; Dispara el caos
+```
+
+### 3. [RedTeam-Toolkit](https://github.com/KevinDevSecOps/RedTeam-Toolkit)
+```python
+def execute():
+    print("Cuando necesitas resultados, no herramientas genéricas")
+```
+
+---
+
+## 📊 Mis Números (Porque los hackers también cuentan)
+```diff
++ 8 años pirateando sistemas
++ 15 dispositivos IoT vulnerados
++ 3 certificaciones de élite
+! ∞ ganas de seguir aprendiendo
+```
+
+---
+
+## 🤝 ¿Quieres Unirte al Caos?
+<div align="center">
+  <a href="https://twitter.com/messages/compose?recipient_id=TU_ID">
+    <img src="https://img.shields.io/badge/Háblame_por_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://github.com/KevinDevSecOps/Leer-sobre-CK/issues/new">
+    <img src="https://img.shields.io/badge/Reporta_un_Bug-FF0000?style=for-the-badge&logo=bugcrowd&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KevinDevSecOps&label=Visitas+al+perfil&color=blueviolet&style=flat-square" alt="Contador de visitas">
+</div>
+
+> **Disclaimer:** No me hago responsable si usas esto para hacer que el microondas mine Bitcoin  
+> — Con cariño hacker, KevinDevSecOps
+```
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KevinDevSecOps&show_icons=true&theme=radical" alt="Estadísticas GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDevSecOps&layout=compact&theme=dark&hide=html,css" alt="Lenguajes más usados">
