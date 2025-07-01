@@ -1,3 +1,18 @@
+### 🌟 **Proyectos Destacados**
+| Repositorio | Descripción | Estrellas |
+|-------------|-------------|-----------|
+| [PortaPack-Havoc-Mod](https://github.com/KevinDevSecOps/PortaPack-Havoc-Mod-KevDevSecOps) | Firmware avanzado para pentesting RF | <img src="https://img.shields.io/github/stars/KevinDevSecOps/PortaPack-Havoc-Mod-KevDevSecOps?style=flat-square" width="80"> |
+| [RF-Hacking-Tools](https://github.com/KevinDevSecOps/RF-Hacking-Tools) | Colección de scripts para análisis de espectro | <img src="https://img.shields.io/github/stars/KevinDevSecOps/RF-Hacking-Tools?style=flat-square" width="80"> |
+
+---
+
+### 📊 **Estadísticas**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinDevSecOps&show_icons=true&theme=radical&hide_border=true" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDevSecOps&layout=compact&theme=radical&hide_border=true" width="45%">
+</div>
+
+---
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+KevinDevSecOps;Hacker+de+RF+y+Security+Engineer" alt="Título animado">
 </h1>
