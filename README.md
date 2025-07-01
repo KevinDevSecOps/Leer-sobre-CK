@@ -1,25 +1,24 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+KevinDevSecOps;Hacker+de+RF+y+Security+Engineer" alt="Título animado">
+</h1>
 
-# 🔥 KevinDevSecOps | Red Team Operations & IoT Weaponization Specialist
-### 🕵️ **IoT Hacking Kit 2024**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KevinDevSecOps&label=Profile+Views&color=blue&style=flat" alt="Visitas al perfil">
+  <a href="https://twitter.com/TuTwitter"><img src="https://img.shields.io/badge/-@TuTwitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+### 🛠 **Stack Tecnológico**
 ```python
-# Dispositivos que duermen en mi mochila:
-flipper_zero = {
-    "firmware": "QF7", 
-    "modules": ["NFC Bruteforce", "BadUSB 2.0", "Sub-GHz Attacks"]
+competencies = {
+    "📡 Radiofrecuencia": ["HackRF", "GNU Radio", "PortaPack", "SDR"],
+    "🔐 Seguridad": ["Pentesting RF", "WiFi Hacking", "Bluetooth Low Energy"],
+    "💻 Desarrollo": ["C/C++", "Python", "Bash", "Embedded Systems"],
+    "🛠️ Herramientas": ["Wireshark", "Kali Linux", "Metasploit", "UART/SPI/I2C"]
 }
-
-proxmark3_rdv4 = {                           # La bestia de RFID
-    "range": "Larga distancia",
-    "features": ["Clonación en 3 segundos"]
-}
-```
-
-### 🔥 **Datos clave (2024)**
-```diff
-+ Kali Linux 2024.2 (con kernel 6.5+ para drivers SDR)
-+ Flipper Zero Firmware QF7 (¡nuevos exploits para coches keyless!)
-+ HackRF One+ (6GHz y 100ms de switching)
-```
+# 🔥 KevinDevSecOps | Red Team Operations & IoT Weaponization 
 
 *(Sí abuela, aún te ayudo con el WiFi... pero ahora también sé hackear tu termostato "inteligente")*  
 ```markdown
