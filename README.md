@@ -19,8 +19,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KevinDevSecOps&label=Profile+Views&color=blue&style=flat" alt="Visitas al perfil">
-  <a href="https://twitter.com/TuTwitter"><img src="https://img.shields.io/badge/-@TuTwitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://twitter.com/coolkiids"><img src="https://img.shields.io/badge/-@TuTwitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="kpcoolkids@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
