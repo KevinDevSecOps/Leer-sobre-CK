@@ -10,7 +10,7 @@
   
 </div>
 <div align="center">
-  <img src="https://i.imgur.com/J4q6Xtl.png" width="300">  
+    
   ### 𝕂𝔸𝕃𝕀ℕ𝕆𝕍𝔸  
   *"No tools. Just power."*  
 </div>
