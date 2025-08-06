@@ -9,6 +9,11 @@
   ![divider](https://i.imgur.com/WQK32oR.png)  <!-- Línea decorativa -->
   
 </div>
+<div align="center">
+  <img src="https://i.imgur.com/J4q6Xtl.png" width="300">  
+  ### 𝕂𝔸𝕃𝕀ℕ𝕆𝕍𝔸  
+  *"No tools. Just power."*  
+</div>
 
 ### 🌟 **Proyectos Destacados**
 | Repositorio | Descripción | Estrellas |
