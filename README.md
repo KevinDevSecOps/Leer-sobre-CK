@@ -1,7 +1,51 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=800&size=35&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=80&lines=%5B%2A%2A%2A%5D+ACCESO+OBTENIDO+%5B%2A%2A%2A%5D;KEVIN_DEV_SEC_OPS+%40ROOT%24%3A~%2F%23+INIT" alt="Acceso Gained">
 </h1>
- (CK) Research Initiative
+ 
+
+
+
+### 🌟 **Proyectos Destacados**
+| Repositorio | Descripción | Estrellas |
+|-------------|-------------|-----------|
+| [PortaPack-Havoc-Mod](https://github.com/KevinDevSecOps/PortaPack-Havoc-Mod-KevDevSecOps) | Firmware avanzado para pentesting RF | <img src="https://img.shields.io/github/stars/KevinDevSecOps/PortaPack-Havoc-Mod-KevDevSecOps?style=flat-square" width="80"> |
+| [RF-Hacking-Tools](https://github.com/KevinDevSecOps/RF-Hacking-Tools) | Colección de scripts para análisis de espectro | <img src="https://img.shields.io/github/stars/KevinDevSecOps/RF-Hacking-Tools?style=flat-square" width="80"> |
+
+---
+
+### 📊 **Estadísticas**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinDevSecOps&show_icons=true&theme=radical&hide_border=true" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDevSecOps&layout=compact&theme=radical&hide_border=true" width="45%">
+</div>
+
+---
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+KevinDevSecOps;Hacker+de+RF+y+Security+Engineer" alt="Podria ser SENIOR si no fuera por mi aspecto JUNIOR ">
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KevinDevSecOps&label=Profile+Views&color=blue&style=flat" alt="Visitas al perfil">
+  
+  <a href="kpcoolkids@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+### 🛠 **Stack Tecnológico**
+```python
+competencies = {
+    "📡 Radiofrecuencia": ["HackRF", "GNU Radio", "PortaPack", "SDR"],
+    "🔐 Seguridad": ["Pentesting RF", "WiFi Hacking", "Bluetooth Low Energy"],
+    "💻 Desarrollo": ["C/C++", "Python", "Bash", "Embedded Systems"],
+    "🛠️ Herramientas": ["Wireshark", "Kali Linux", "Metasploit", "UART/SPI/I2C"]
+}
+# 🔥 KevinDevSecOps | Red Team Operations & IoT Weaponization 
+
+*(Sí abuela, aún te ayudo con el WiFi... pero ahora también sé hackear tu termostato "inteligente")*  
+```markdown
+[![Firmware](https://img.shields.io/badge/Firmware_Actualizado-Junio_2024-brightgreen?style=flat-square)]()
+``` 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Project Status">
@@ -12,7 +56,7 @@
 ---
 
 ## 📌 Project Overview
-A systematic open-source intelligence (OSINT) repository for analyzing publicly available information about Christian Kevin (CK). This project adheres to strict ethical guidelines and complies with all applicable data protection regulations.
+A systematic open-source intelligence (OSINT) repository for analyzing publicly available information about  Kevin (CK). This project adheres to strict ethical guidelines and complies with all applicable data protection regulations.
 
 ---
 
@@ -76,49 +120,6 @@ This project strictly follows:
   <sub>For research inquiries: research@kalinova.tech</sub>
 </div>
 ```
-
-### 🌟 **Proyectos Destacados**
-| Repositorio | Descripción | Estrellas |
-|-------------|-------------|-----------|
-| [PortaPack-Havoc-Mod](https://github.com/KevinDevSecOps/PortaPack-Havoc-Mod-KevDevSecOps) | Firmware avanzado para pentesting RF | <img src="https://img.shields.io/github/stars/KevinDevSecOps/PortaPack-Havoc-Mod-KevDevSecOps?style=flat-square" width="80"> |
-| [RF-Hacking-Tools](https://github.com/KevinDevSecOps/RF-Hacking-Tools) | Colección de scripts para análisis de espectro | <img src="https://img.shields.io/github/stars/KevinDevSecOps/RF-Hacking-Tools?style=flat-square" width="80"> |
-
----
-
-### 📊 **Estadísticas**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinDevSecOps&show_icons=true&theme=radical&hide_border=true" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDevSecOps&layout=compact&theme=radical&hide_border=true" width="45%">
-</div>
-
----
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+KevinDevSecOps;Hacker+de+RF+y+Security+Engineer" alt="Podria ser SENIOR si no fuera por mi aspecto JUNIOR ">
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KevinDevSecOps&label=Profile+Views&color=blue&style=flat" alt="Visitas al perfil">
-  
-  <a href="kpcoolkids@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
-
-### 🛠 **Stack Tecnológico**
-```python
-competencies = {
-    "📡 Radiofrecuencia": ["HackRF", "GNU Radio", "PortaPack", "SDR"],
-    "🔐 Seguridad": ["Pentesting RF", "WiFi Hacking", "Bluetooth Low Energy"],
-    "💻 Desarrollo": ["C/C++", "Python", "Bash", "Embedded Systems"],
-    "🛠️ Herramientas": ["Wireshark", "Kali Linux", "Metasploit", "UART/SPI/I2C"]
-}
-# 🔥 KevinDevSecOps | Red Team Operations & IoT Weaponization 
-
-*(Sí abuela, aún te ayudo con el WiFi... pero ahora también sé hackear tu termostato "inteligente")*  
-```markdown
-[![Firmware](https://img.shields.io/badge/Firmware_Actualizado-Junio_2024-brightgreen?style=flat-square)]()
-``` 
-
 ---
 
 ## 👵💻 **Explicación para tu abuela**
