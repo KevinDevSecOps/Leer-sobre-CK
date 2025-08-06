@@ -44,6 +44,7 @@ competencies = {
 
 *(Sí abuela, aún te ayudo con el WiFi... pero ahora también sé hackear tu termostato "inteligente")*  
 ```markdown
+
 [![Firmware](https://img.shields.io/badge/Firmware_Actualizado-Junio_2024-brightgreen?style=flat-square)]()
 ``` 
 
