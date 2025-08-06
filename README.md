@@ -1,7 +1,19 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=800&size=35&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=80&lines=%5B%2A%2A%2A%5D+ACCESO+OBTENIDO+%5B%2A%2A%2A%5D;KEVIN_DEV_SEC_OPS+%40ROOT%24%3A~%2F%23+INIT" alt="Acceso Gained">
 </h1>
+
  
+<div align="center">
+  
+  ``` 
+  ██╗  ██╗ █████╗ ██╗     ███╗   ██╗ ██████╗ ██╗   ██╗ █████╗ 
+  ██║ ██╔╝██╔══██╗██║     ████╗  ██║██╔═══██╗██║   ██║██╔══██╗
+  █████╔╝ ███████║██║     ██╔██╗ ██║██║   ██║██║   ██║███████║
+  ██╔═██╗ ██╔══██║██║     ██║╚██╗██║██║   ██║╚██╗ ██╔╝██╔══██║
+  ██║  ██╗██║  ██║███████╗██║ ╚████║╚██████╔╝ ╚████╔╝ ██║  ██║
+  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝
+  ```
+
 <div align="center">
   
   ### 🔥 🐍 𝕂𝕒𝕝𝕚ℕ𝕠𝕧𝕒 🔥  
