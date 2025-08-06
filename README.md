@@ -1,6 +1,81 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=800&size=35&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=80&lines=%5B%2A%2A%2A%5D+ACCESO+OBTENIDO+%5B%2A%2A%2A%5D;KEVIN_DEV_SEC_OPS+%40ROOT%24%3A~%2F%23+INIT" alt="Acceso Gained">
 </h1>
+ (CK) Research Initiative
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Project Status">
+  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
+  <img src="https://img.shields.io/badge/Research%20Type-OSINT-informational" alt="Research Type">
+</div>
+
+---
+
+## 📌 Project Overview
+A systematic open-source intelligence (OSINT) repository for analyzing publicly available information about Christian Kevin (CK). This project adheres to strict ethical guidelines and complies with all applicable data protection regulations.
+
+---
+
+## 🔬 Research Methodology
+| Phase         | Tools/Techiques                  | Output                      |
+|---------------|----------------------------------|-----------------------------|
+| Data Gathering| Maltego, SpiderFoot, Google Dorks| Structured datasets         |
+| Analysis      | Pandas, NetworkX, Gephi         | Relationship graphs         |
+| Verification  | Manual review, Cross-referencing| Validated information       |
+
+---
+
+## 📂 Data Structure
+```bash
+research/
+├── primary_sources/    # Original data (PDFs, screenshots)
+├── processed_data/     # Cleaned datasets (CSV/JSON)
+├── analysis_notebooks/ # Jupyter notebooks
+└── visualizations/     # Charts and network graphs
+```
+
+---
+
+## 💻 Usage Example
+```python
+# Sample OSINT analysis (Python)
+import pandas as pd
+from networkx import Graph
+
+def analyze_connections(data_path):
+    df = pd.read_csv(data_path)
+    g = Graph()
+    # Build relationship network...
+    return g
+```
+
+---
+
+## 🛠 Contribution Guidelines
+1. **Data Submission**:
+   - Only public, legally obtained information
+   - Anonymize sensitive references
+   - Use standardized formats (CSV, JSON)
+
+2. **Analysis Standards**:
+   - Document all assumptions
+   - Provide verifiable sources
+   - Flag speculative content
+
+---
+
+## ⚖️ Ethical Framework
+This project strictly follows:
+- GDPR and local privacy laws
+- OSINT ethical guidelines (NATO AJP-2.1)
+- Principle of minimum necessary data
+
+---
+
+<div align="center">
+  <sub>For research inquiries: research@kalinova.tech</sub>
+</div>
+```
 
 ### 🌟 **Proyectos Destacados**
 | Repositorio | Descripción | Estrellas |
