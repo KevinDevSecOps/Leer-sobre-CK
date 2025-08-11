@@ -386,8 +386,12 @@ WHERE technique_id IN (
 
 ![Footer](https://github.com/KevinDevSecOps/KevinDevSecOps/blob/main/assets/footer_banner.png?raw=true)
 ```
+'''mermaid
+
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Hack the Planet">
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HU7JIWajUzjApZe/giphy.gif" width="300" alt="0-day found">
+</p>
 
