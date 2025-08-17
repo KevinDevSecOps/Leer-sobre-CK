@@ -16,6 +16,7 @@
 
 <div align="center">
 
+[![KaliNova](https://img.shields.io/badge/🔮_KaliNova-Hacking_Ético_Avanzado-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/KevinDevSecOps/KaliNova)
   
    ## 🌌 NovaVision - El Ojo que Todo lo Ve
    ```ascii
