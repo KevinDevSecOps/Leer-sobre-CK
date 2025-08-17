@@ -16,7 +16,7 @@
 
 <div align="center">
 
-     ```markdown
+  
    ## 🌌 NovaVision - El Ojo que Todo lo Ve
    ```ascii
     /\    .-' /
