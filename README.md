@@ -15,7 +15,20 @@
   ```
 
 <div align="center">
-  
+
+     ```markdown
+   ## 🌌 NovaVision - El Ojo que Todo lo Ve
+   ```ascii
+    /\    .-' /
+   /  \ .'  .'
+  |    |   / 
+  |    |  /  
+   \  /  /   
+    \/  /    
+     `'     
+
+   > "Porque hasta las paredes tienen ojos... y vulnerabilidades"
+   ```
   ### 🔥 🐍 𝕂𝕒𝕝𝕚ℕ𝕠𝕧𝕒 🔥  
   *"When Red Team needs overkill"*  
   ![divider](https://i.imgur.com/WQK32oR.png)  <!-- Línea decorativa -->
