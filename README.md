@@ -80,7 +80,71 @@ graph TB
     AA --> EE
     BB --> FF
 ```
+```mermaid
+sequenceDiagram
+    participant C as Client
+    participant L as Load Balancer
+    participant G as API Gateway
+    participant M as Microservices
+    participant D as Database
+    participant O as Observability
 
+    C->>L: HTTPS Request
+    L->>G: Routing
+    G->>M: gRPC/HTTP2
+    M->>D: Query/Transaction
+    D-->>M: Response
+    M-->>G: Processed Data
+    G-->>L: Formatted Response
+    L-->>C: Final Response
+    
+    Note over M,O: Telemetry Data
+    M->>O: Metrics & Logs
+    O->>O: Aggregation
+    O->>O: Analysis & Alerting
+```
+
+🎯 Arquitectura de Microservicios
+
+```mermaid
+graph LR
+    subgraph "🌐 API Gateway"
+        G[Kong/Envoy]
+    end
+
+    subgraph "🔒 Security Services"
+        A[Auth Service]
+        B[RBAC Service]
+        C[Audit Service]
+    end
+
+    subgraph "📊 Business Services"
+        D[User Service]
+        E[Order Service]
+        F[Payment Service]
+    end
+
+    subgraph "📡 Specialized Services"
+        H[5G Analysis Service]
+        I[ML Inference Service]
+        J[Blockchain Service]
+    end
+
+    G --> A
+    G --> B
+    G --> C
+    G --> D
+    G --> E
+    G --> F
+    G --> H
+    G --> I
+    G --> J
+
+    A --> L[(Redis)]
+    B --> M[(PostgreSQL)]
+    C --> N[(Elasticsearch)]
+    D --> O[(MySQL)]
+```
 
 <div align="center">
   
