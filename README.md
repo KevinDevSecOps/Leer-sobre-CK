@@ -2,7 +2,83 @@
   <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=800&size=35&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=80&lines=%5B%2A%2A%2A%5D+ACCESO+OBTENIDO+%5B%2A%2A%2A%5D;KEVIN_DEV_SEC_OPS+%40ROOT%24%3A~%2F%23+INIT" alt="Acceso Gained">
 </h1>
 
- 
+ graph TB
+    subgraph "🔒 Security & DevSecOps Layer"
+        A[🛡️ Threat Modeling]
+        B[🔍 SAST/DAST Tools]
+        C[🔐 Secrets Management]
+        D[📜 Compliance as Code]
+    end
+
+    subgraph "☁️ Cloud & Kubernetes Layer"
+        E[🏗️ Multi-Cloud Architecture]
+        F[☸️ Kubernetes Cluster]
+        G[🔗 Service Mesh]
+        H[📦 Cloud Native Tools]
+    end
+
+    subgraph "🦀 Rust & High-Performance Layer"
+        I[⚡ Rust Microservices]
+        J[🔥 Async Runtime]
+        K[📡 gRPC/Protobuf]
+        L[🎯 Performance Optimization]
+    end
+
+    subgraph "📡 5G & Telecom Security"
+        M[📶 5G Core Security]
+        N[📡 RF Analysis Tools]
+        O[📱 Mobile Security]
+        P[🌐 Telecom Protocols]
+    end
+
+    subgraph "🤖 AI & Machine Learning"
+        Q[🧠 ML Ops Pipeline]
+        R[📊 Threat Intelligence]
+        S[🔮 Predictive Analytics]
+        T[🎯 Anomaly Detection]
+    end
+
+    subgraph "🔄 CI/CD & Automation"
+        U[⚙️ GitOps Workflows]
+        V[🔁 ArgoCD Flux]
+        W[🧪 Testing Automation]
+        X[🚀 Deployment Pipelines]
+    end
+
+    subgraph "📊 Monitoring & Observability"
+        Y[📈 Prometheus Stack]
+        Z[📊 Grafana Dashboards]
+        AA[🔍 Distributed Tracing]
+        BB[🚨 Alert Management]
+    end
+
+    subgraph "🗃️ Data & Storage Layer"
+        CC[💾 TimescaleDB]
+        DD[🔗 Blockchain Storage]
+        EE[☁️ S3 Compatible]
+        FF[📁 IPFS Integration]
+    end
+
+    A --> E
+    B --> F
+    C --> G
+    D --> H
+    
+    I --> M
+    J --> N
+    K --> O
+    L --> P
+    
+    Q --> U
+    R --> V
+    S --> W
+    T --> X
+    
+    Y --> CC
+    Z --> DD
+    AA --> EE
+    BB --> FF
+
 <div align="center">
   
   ``` 
